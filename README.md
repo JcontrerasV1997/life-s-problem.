@@ -9,4 +9,4 @@ Explicacion mas profunda en: https://es.wikipedia.org/wiki/Juego_de_la_vida
 
 Patron del cañon.
 
-#![image](https://github.com/JcontrerasV1997/life-s-problem./blob/main/Gospers_glider_gun%20(1).gif)
+![image](https://github.com/JcontrerasV1997/life-s-problem./blob/main/Gospers_glider_gun%20(1).gif)
